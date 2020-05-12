@@ -36,7 +36,7 @@ while True:
         else: 
             print("Your guess was too high: Guess a number lower than", guess) 
             
-        # Increase the value of chance by 1 as the is used
+        # Increase the value of chance by 1 as 1 chance is used
         chances += 1
             
     # Check whether the user guessed the correct number  
